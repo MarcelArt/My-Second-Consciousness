@@ -15,6 +15,12 @@
 | 20:00 | 20:30 | Learn Japanese 🇯🇵 + Learn Mandarin 🇨🇳 |
 | 20:30 | 22:30 | Downtime: Gaming 🎮                       |
 | 22:30 | 6:30  | Sleep 💤                                  |
+> Summary:
+> - 1h: Personal Project 💻 / Studying 📚
+> - 15m: Learn Japanese 🇯🇵
+> - 15m: Learn Mandarin 🇨🇳
+> - 2h: Gaming 🎮 
+
 ## Saturday
 | START | END   | TASK                                           |
 | ----- | ----- | ---------------------------------------------- |
@@ -32,6 +38,11 @@
 | 19:00 | 19:30 | Learn Japanese 🇯🇵 + Learn Mandarin 🇨🇳      |
 | 19:30 | 23:30 | Downtime: Gaming 🎮                            |
 | 23:30 | 6:30  | Sleep 💤                                       |
+> Summary:
+> - 2h: Personal Project 💻 / Studying 📚
+> - 15m: Learn Japanese 🇯🇵
+> - 15m: Learn Mandarin 🇨🇳
+> - 4h: Gaming 🎮 
 ## Sunday
 | START | END   | TASK                                           |
 | ----- | ----- | ---------------------------------------------- |
@@ -49,3 +60,8 @@
 | 19:00 | 19:30 | Learn Japanese 🇯🇵 + Learn Mandarin 🇨🇳      |
 | 19:30 | 23:30 | Downtime: Gaming 🎮                            |
 | 23:30 | 6:30  | Sleep 💤                                       |
+> Summary:
+> - 2h: Personal Project 💻 / Studying 📚
+> - 15m: Learn Japanese 🇯🇵
+> - 15m: Learn Mandarin 🇨🇳
+> - 4h: Gaming 🎮 

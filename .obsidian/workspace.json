@@ -41,7 +41,8 @@
               "title": "Daily Schedule"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,7 +196,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f7cfe781c1e26bc6",
+  "active": "0ba6e6b359c557da",
   "lastOpenFiles": [
     "Setup Godot Rust Extension.md",
     "Daily Schedule.md",
