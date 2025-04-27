@@ -1,4 +1,4 @@
-#development/game #godot #rust 
+#development #development/game #godot #rust 
 1. Setup lib crate `cargo new {project-name} --lib`
 2. I prefer to structure my project like this:
 ```md
