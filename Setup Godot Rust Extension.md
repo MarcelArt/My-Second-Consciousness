@@ -38,7 +38,7 @@ godot/data_*/
 godot/mono_crash.*.json
 ```
 5. This is the gdextension configuration I need:
-```
+```toml
 [configuration]
 entry_symbol = "gdext_rust_init"
 compatibility_minimum = 4.1
@@ -55,3 +55,27 @@ macos.debug.arm64 =      "res://../target/debug/lib{project-name}.dylib"
 macos.release.arm64 =    "res://../target/release/lib{project-name}.dylib"
 
 ```
+6. Basic Cargo.toml configuration
+```toml
+[package]
+name = "godot_rust_template"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib"]
+  
+[dependencies]
+godot = "0.2.4"
+```
+7. Basic entrypoint lib.rs
+```rust
+use godot::prelude::*;
+
+// Import modules here
+struct GdRust;  
+
+#[gdextension]
+unsafe impl ExtensionLibrary for GdRust {}
+```
+

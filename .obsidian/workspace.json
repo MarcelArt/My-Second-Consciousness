@@ -23,8 +23,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Schedule.md",
-                "mode": "source",
+                "file": "Setup Godot Rust Extension.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Daily Schedule"
+              "title": "Setup Godot Rust Extension"
             }
           }
         ],
@@ -105,7 +105,8 @@
               "title": "Tag Folder"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -198,9 +199,10 @@
   },
   "active": "0ba6e6b359c557da",
   "lastOpenFiles": [
+    "Godot + Rust.md",
+    "Godot Lifecycles.md",
     "Setup Godot Rust Extension.md",
     "Daily Schedule.md",
-    "Godot + Rust.md",
     "Expo's React Native.md",
     "Vanessa.md",
     "Gyani.md",
